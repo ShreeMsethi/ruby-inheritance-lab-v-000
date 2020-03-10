@@ -21,6 +21,6 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 
 jim = User.new
-jim.firs_name= "Jim"
+jim.first_name= "Jim"
 jim.last_name= "Baker"
 
